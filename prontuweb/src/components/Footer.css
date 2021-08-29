@@ -1,0 +1,8 @@
+.container{
+    font-family: Poppins;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #2e2e2e;
+    color: #fff;
+}
